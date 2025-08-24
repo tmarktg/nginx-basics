@@ -35,10 +35,12 @@ Why do you need nginx?
 
 - can have encryption at nginx instead of at server to fix that issue
 
-lots of key value pairs in nginx conf
+- lots of key value pairs in nginx conf
+
 ![nginx example](img/photo5.png)
 
-this is a context
+- this is a context
+
 ![nginx example](img/photo6.png)
 
 http context defines http server, and have directives that will define it
@@ -47,4 +49,3 @@ dockerfile from express
 https://medium.com/@muhammadnaqeeb/dockerizing-a-node-js-and-express-js-app-9cb31cf9139e
 
 - we want to round robin the docker servers
-# nginx-basics
